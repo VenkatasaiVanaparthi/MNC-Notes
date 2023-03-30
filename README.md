@@ -43,22 +43,39 @@ Transmission Rate = Data per round-trip * Round-trips per sec = 20000*50 = 1,000
 TCP-based protocols:
 
 HTTP (Hypertext Transfer Protocol) for web browsing
+
 FTP (File Transfer Protocol) for file transfer
+
 SMTP (Simple Mail Transfer Protocol) for email transmission
+
 Telnet for remote terminal access
+
 SSH (Secure Shell) for secure remote terminal access
+
 IMAP (Internet Message Access Protocol) for email retrieval
+
 POP3 (Post Office Protocol version 3) for email retrieval
+
 DNS (Domain Name System) for domain name resolution
+
 HTTPS (HTTP Secure) for secure web browsing
+
 UDP-based protocols:
 
 DNS (Domain Name System) for domain name resolution
+
 DHCP (Dynamic Host Configuration Protocol) for automatic IP address assignment
+
 SNMP (Simple Network Management Protocol) for network management
+
 TFTP (Trivial File Transfer Protocol) for file transfer
+
 RTP (Real-time Transport Protocol) for multimedia streaming
+
 SIP (Session Initiation Protocol) for VoIP (Voice over IP) and video conferencing
+
 NFS (Network File System) for file sharing
+
 NTP (Network Time Protocol) for time synchronization
+
 It's important to note that some protocols, such as SIP and DNS, can use both TCP and UDP depending on the specific application requirements and configuration.
