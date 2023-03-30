@@ -40,7 +40,7 @@ Transmission Rate = Data per round-trip * Round-trips per sec = 20000*50 = 1,000
 
 ## Here are some common application layer protocols and their associated transport layer protocols:
 
-TCP-based protocols:
+### TCP-based protocols:
 
 HTTP (Hypertext Transfer Protocol) for web browsing
 
@@ -60,7 +60,7 @@ DNS (Domain Name System) for domain name resolution
 
 HTTPS (HTTP Secure) for secure web browsing
 
-UDP-based protocols:
+### UDP-based protocols:
 
 DNS (Domain Name System) for domain name resolution
 
